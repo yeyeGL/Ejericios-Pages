@@ -58,12 +58,12 @@ const Coffes = () => {
                         {cof.votes > 0 ? (
                           <>
                             <img src="/Star_fill.svg" alt="" className="mr-1 mb-1"/>
-                            Rating: {cof.rating} ({cof.votes} votes)
+                            {cof.rating} ({cof.votes} votes)
                           </>
                         ) : (
                           <>
                             <img src="/Star.svg" alt="" className="mr-1 mb-1" />
-                            Rating: No ratings
+                            No ratings
                           </>
                         )}
                       </h2>

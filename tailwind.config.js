@@ -9,7 +9,10 @@ export default {
         button: "#6F757C",
         price: "#BEE3CC",
         soldout: "#ED735D",
-        poppular: "#F6C768"
+        poppular: "#F6C768",
+        treefondo: "#282B30",
+        patodo: "#6C727F",
+        letra: "#D2D5DA"
       },
     },
     fontFamily: {
